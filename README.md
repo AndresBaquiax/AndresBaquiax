@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/diego-baquiax-372302254" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-baquiax-372302254/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="baquiax.diegoandres@gmail.com" target="_blank">
